@@ -23,16 +23,11 @@ This is cursors only for 4K (3840 x 2160 pixel) resolution.
 3. Cursors install automatically (You must agree to the installation) and will open menu Mouse Properties. You need press "OK" button.
 4. Apply and enjoy the best cursors ever!
 
-## Please Support me
-
-- **TON**: `UQCXsme0tXM9pf3yYn_Z6KAvA0i22TR6dYWBVKpjiwUSdJum`
-- **BTC**: `1NtWDeoWRRV4Rpm2qm4YHscWUr4hmm9yhk`
-- **USDT (TRC20)**: `TVcrF8Swf5AovRM6zopgrTjzagzmXYBbsf`
 
 ## Authors
 
-* **antiden** - [coderteam](https://coderteam.ru)
-* Vector icons **antiden**
+* **rivaan** - [coderteam](https://coderteam.ru)
+* Vector icons **rivaan**
 
 ## License
 
