@@ -1,5 +1,3 @@
-![macOS Cursors Megapack for Windows]
-
 # macOS Cursors Megapack for Windows
 This is cursors only for 4K (3840 x 2160 pixel) resolution.
 
